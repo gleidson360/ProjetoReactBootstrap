@@ -1,0 +1,14 @@
+.banner {
+    background-color: gray;
+    padding: 40px;
+  }
+  
+  .white-text {
+    color: white;
+  }
+  
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover; /* Mantém a proporção da imagem, cobrindo todo o espaço */
+  }
